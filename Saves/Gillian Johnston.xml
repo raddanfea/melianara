@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<characterBase name="Dominic Kemmer">
-    <level>4</level>
-    <race>Dwarf</race>
-    <age>100</age>
+<characterBase name="Gillian Johnston">
+    <level>11</level>
+    <race>Elf</race>
+    <age>87</age>
     <gender>Female</gender>
     <rpgclass>Mage</rpgclass>
-    <abilities>true false true true true true false true false true false</abilities>
+    <abilities>false false false false true false true false true true true</abilities>
     <skills>
         <skill>
             <name>Mage Skill 1</name>
@@ -19,6 +19,22 @@
             <name>Mage Skill 3</name>
             <effect>Effect 3</effect>
         </skill>
+        <skill>
+            <name>Mage Skill 4</name>
+            <effect>Effect 4</effect>
+        </skill>
+        <skill>
+            <name>Mage Skill 5</name>
+            <effect>Effect 5</effect>
+        </skill>
+        <skill>
+            <name>Mage Skill 6</name>
+            <effect>Effect 6</effect>
+        </skill>
+        <skill>
+            <name>Mage Skill 7</name>
+            <effect>Effect 7</effect>
+        </skill>
     </skills>
     <items>
         <item>Starting Items</item>
@@ -27,7 +43,7 @@
     <stats>
         <stat>
             <name>Strength</name>
-            <value>13</value>
+            <value>14</value>
         </stat>
         <stat>
             <name>Dexterity</name>
@@ -35,19 +51,19 @@
         </stat>
         <stat>
             <name>Constitution</name>
-            <value>10</value>
+            <value>13</value>
         </stat>
         <stat>
             <name>Intelligence</name>
-            <value>11</value>
+            <value>12</value>
         </stat>
         <stat>
             <name>Wisdom</name>
-            <value>14</value>
+            <value>12</value>
         </stat>
         <stat>
             <name>Charisma</name>
-            <value>11</value>
+            <value>15</value>
         </stat>
     </stats>
 </characterBase>
