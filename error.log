@@ -1,0 +1,43 @@
+2020-05-24 14:08:05 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Character Saves/null.xml not loaded because it could no be found.
+2020-05-24 14:08:05 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Last Save is missing, therefore returning a random character.
+2020-05-24 14:54:22 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Character Saves/null.xml not loaded because it could no be found.
+2020-05-24 14:54:22 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Last Save is missing, therefore returning a random character.
+2020-05-24 15:01:49 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Character Saves/null.xml not loaded because it could no be found.
+2020-05-24 15:01:49 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Last Save is missing, therefore returning a random character.
+2020-05-24 17:04:51 [JavaFX Application Thread] controller.CharScreenController.changed()
+ERROR: ReadOnlyIntegerProperty [bean: javafx.scene.control.ChoiceBox$ChoiceBoxSelectionModel@8c1ea5, name: selectedIndex, value: 1]-11
+2020-05-24 17:04:59 [JavaFX Application Thread] controller.CharScreenController.changed()
+ERROR: ReadOnlyIntegerProperty [bean: javafx.scene.control.ChoiceBox$ChoiceBoxSelectionModel@8c1ea5, name: selectedIndex, value: 0]10
+2020-05-24 17:05:17 [JavaFX Application Thread] controller.CharScreenController.changed()
+ERROR: ReadOnlyIntegerProperty [bean: javafx.scene.control.ChoiceBox$ChoiceBoxSelectionModel@8c1ea5, name: selectedIndex, value: 1]01
+2020-05-24 17:05:20 [JavaFX Application Thread] controller.CharScreenController.changed()
+ERROR: ReadOnlyIntegerProperty [bean: javafx.scene.control.ChoiceBox$ChoiceBoxSelectionModel@8c1ea5, name: selectedIndex, value: 0]10
+2020-05-24 17:05:23 [JavaFX Application Thread] controller.CharScreenController.changed()
+ERROR: ReadOnlyIntegerProperty [bean: javafx.scene.control.ChoiceBox$ChoiceBoxSelectionModel@8c1ea5, name: selectedIndex, value: 1]01
+2020-05-24 17:14:38 [JavaFX Application Thread] controller.CharScreenController.handleCheckBoxAction()
+ERROR: Deception
+2020-05-24 17:14:41 [JavaFX Application Thread] controller.CharScreenController.handleCheckBoxAction()
+ERROR: Deception
+2020-05-24 17:14:59 [JavaFX Application Thread] controller.CharScreenController.handleCheckBoxAction()
+ERROR: checkBox3
+2020-05-24 17:15:01 [JavaFX Application Thread] controller.CharScreenController.handleCheckBoxAction()
+ERROR: checkBox3
+2020-05-24 18:02:03 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Character Saves/null.xml not loaded because it could no be found.
+2020-05-24 18:02:03 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Last Save is missing, therefore returning a random character.
+2020-05-24 18:02:16 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Character Saves/null.xml not loaded because it could no be found.
+2020-05-24 18:02:16 [JavaFX Application Thread] helpers.CharSaver.load()
+ERROR: Last Save is missing, therefore returning a random character.
+2020-05-24 18:45:25 [JavaFX Application Thread] controller.CharScreenController.refreshTemp()
+ERROR: Error while saving to memory. Invalid inputs? java.lang.NumberFormatException: For input string: "10s"
+2020-05-24 18:45:41 [JavaFX Application Thread] helpers.CharacterSaveLogic.SaveLogic()
+ERROR: CharacterSaveLogic Failed. Invalid Values?
+java.lang.NumberFormatException: For input string: "asd"

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<characterBase name="Mrs. Fred Bernier">
+    <level>11</level>
+    <race>Thiefling</race>
+    <age>102</age>
+    <gender>Male</gender>
+    <rpgclass>Warrior</rpgclass>
+    <abilities>false true true true true false false true true true false</abilities>
+    <skills>
+        <skill>
+            <name>Warrior Skill 1</name>
+            <effect>Effect 1</effect>
+        </skill>
+        <skill>
+            <name>Warrior Skill 2</name>
+            <effect>Effect 2</effect>
+        </skill>
+        <skill>
+            <name>Warrior Skill 3</name>
+            <effect>Effect 3</effect>
+        </skill>
+        <skill>
+            <name>Warrior Skill 4</name>
+            <effect>Effect 4</effect>
+        </skill>
+        <skill>
+            <name>Warrior Skill 5</name>
+            <effect>Effect 5</effect>
+        </skill>
+        <skill>
+            <name>Warrior Skill 6</name>
+            <effect>Effect 6</effect>
+        </skill>
+        <skill>
+            <name>Warrior Skill 7</name>
+            <effect>Effect 7</effect>
+        </skill>
+    </skills>
+    <items>
+        <item>Starting Items</item>
+        <item>Use Comma for New Line</item>
+    </items>
+    <stats>
+        <stat>
+            <name>Strength</name>
+            <value>13</value>
+        </stat>
+        <stat>
+            <name>Dexterity</name>
+            <value>10</value>
+        </stat>
+        <stat>
+            <name>Constitution</name>
+            <value>12</value>
+        </stat>
+        <stat>
+            <name>Intelligence</name>
+            <value>13</value>
+        </stat>
+        <stat>
+            <name>Wisdom</name>
+            <value>12</value>
+        </stat>
+        <stat>
+            <name>Charisma</name>
+            <value>13</value>
+        </stat>
+    </stats>
+</characterBase>
